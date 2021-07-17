@@ -1,0 +1,9 @@
+employee
+looking-left
+looking-right
+looking-forward
+picking-left
+picking-right
+paying
+dog
+cat
